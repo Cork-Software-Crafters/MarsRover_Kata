@@ -38,3 +38,10 @@ project, import it in your IDE as a Gradle project, and start TDDing ;-)
 ![Import Project](img/idea_import_1.png)
 
 ![Import Project](img/idea_import_2.png)
+
+If you want to run the unit tests directly from the console do a
+```
+$ ./gradlew test
+```
+
+
