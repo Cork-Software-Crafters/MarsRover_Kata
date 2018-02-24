@@ -1,10 +1,10 @@
 Mars Rover Kata
 ===============
 
-## Description
-
+You’re part of the team that explores Mars by sending remotely controlled vehicles to the surface of the planet. 
 Develop an api that moves a rover around on a grid.
 
+## Requirements
 * You are given the initial starting point (x,y) of a rover and the 
 direction (N,S,E,W) it is facing.
 * The rover receives a character array of commands.
@@ -24,3 +24,17 @@ because the developers overlooked a null pointer.
 
 ## Source
 - http://kata-log.rocks/mars-rover-kata
+- https://github.com/vfarcic/mars-rover-kata-java
+
+## Getting started
+You can use your favourite programming language, unit test and mocks libraries.
+
+This repo also includes a starting project for Java 8, JUnit, AssertJ and Mockito to help 
+you getting started.
+
+Clone or [download](https://github.com/Cork-Software-Craftsmanship-Community/MarsRover_Kata/archive/master.zip) this 
+project, import it in your IDE as a Gradle project, and start TDDing ;-)
+
+![Import Project](img/idea_import_1.png)
+
+![Import Project](img/idea_import_2.png)
